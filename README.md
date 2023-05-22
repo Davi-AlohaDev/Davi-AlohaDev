@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo(a)! 
 ### Eu sou o Davi Luiz. Atualmente estou na jornada de me tornando um Desenvolvedor front-end.
 
-Sou um programador com sede por aprender! Atualmente graduando em Ciência da Computação | Estudante de Front-end e UI/UX Design. Conhecimentos em HTML5, CSS3 e JavaScript | Aprendendo Java e MySQL.
+Sou um programador com sede por aprender! Atualmente graduando em Ciência da Computação | Estudante de Front-end e UI/UX Design. Conhecimentos em HTML5, CSS3 e JavaScript .
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-luiz-souza-ajala-611314193/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aloha_developer/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davi-AlohaDev)
 
